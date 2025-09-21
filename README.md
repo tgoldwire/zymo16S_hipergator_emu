@@ -1,0 +1,1 @@
+three slurm scripts to process 16S full gene zymo kit sequence data from a minion. Start with superaccuracy basecalling, then minibar demux, then emu. Change array details, user info, file locations, etc....as needed.
